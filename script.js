@@ -352,7 +352,6 @@ function handleDelete(id) {
 }
 
 
-
 // =======================================
 // Tab Change
 // =======================================
@@ -404,8 +403,6 @@ function switchTab(tab) {
     showJobs();
 
 }
-
-
 
 // =======================================
 // Dark Mode Function
