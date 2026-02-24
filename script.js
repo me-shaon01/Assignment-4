@@ -439,6 +439,4 @@ function toggleDarkMode() {
 
 }
 
-
-
 showJobs();
